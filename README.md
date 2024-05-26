@@ -27,6 +27,7 @@ This project is a decentralized application (dApp) designed to securely store an
 - Node.js and npm installed on your machine
 - MetaMask browser extension
 - An Ethereum wallet (MetaMask account)
+- Hardhat installation
 
 ### Installation
 
