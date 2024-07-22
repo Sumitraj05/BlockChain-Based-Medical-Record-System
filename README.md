@@ -66,6 +66,9 @@ This project is a decentralized application (dApp) designed to securely store an
 1. **Connect MetaMask**: Open the application and connect your MetaMask wallet.
 2. **Interact with the dApp**: Use the provided interface to add, view, and manage medical records on the blockchain.
 
+   <img src="img/patient_form.png" alt="patient_form" >
+   <img src="img/patient Data.png" alt="patient_data" >
+
 ## Project Structure
 
 - **contracts/**: Contains Solidity smart contracts.
@@ -75,6 +78,7 @@ This project is a decentralized application (dApp) designed to securely store an
   - **redux/**: Redux Toolkit slices and store configuration.
   - **views/**: Application views and pages.
 - **hardhat.config.js**: Hardhat configuration file.
+- <img src="img/Redux Toolkit.png" alt="Redux" >
 
 ## Contributing
 
